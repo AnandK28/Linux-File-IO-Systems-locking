@@ -79,10 +79,10 @@ return 0;
 ```
 
 ## OUTPUT
+<img width="655" height="427" alt="image" src="https://github.com/user-attachments/assets/7a579ac0-750e-42e4-949e-e3886b9fe069" />
 
-![alt text](image.png)
+<img width="693" height="1013" alt="ex 7 1" src="https://github.com/user-attachments/assets/5fde6fad-e3dc-4ec4-ab49-fc97d85e8da2" />
 
-![alt text](<ex 7.1.png>)
 
 # RESULT:
 The programs are executed successfully.
